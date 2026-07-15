@@ -1,0 +1,12 @@
+# Substrait CLI link state
+.substrait/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
